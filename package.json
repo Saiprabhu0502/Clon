@@ -49,6 +49,8 @@
   },
   "devDependencies": {
     "vite": "^5.0.11",
-    "@vitejs/plugin-react": "^4.2.1"
+    "@vitejs/plugin-react": "^4.2.1",
+    "react-animate-on-scroll": "latest_version",
+     "react": "17.0.2"
   }
 }
