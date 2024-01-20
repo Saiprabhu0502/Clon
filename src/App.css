@@ -1,0 +1,23 @@
+.App {
+  background-image: url("https://www.aesop.com/u1nb1km7t5q7/3MBwyQNwPZDKq8hxzzLh1Q/7905dac84e46772f112be054e7e97404/Aesop_B_Triple_C_2024_Web_Homepage_Primary_1_Full_Bleed_Desktop_2880x1044px.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 634.4px;
+  background-color: #fffef2;
+}
+
+@media only screen and (max-width: 1024px) {
+  .App {
+    background-image: url("https://www.aesop.com/u1nb1km7t5q7/3MBwyQNwPZDKq8hxzzLh1Q/7905dac84e46772f112be054e7e97404/Aesop_B_Triple_C_2024_Web_Homepage_Primary_1_Full_Bleed_Desktop_2880x1044px.jpg");
+    height: 719.6px;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .App {
+    background-image: url("https://www.aesop.com/u1nb1km7t5q7/3MBwyQNwPZDKq8hxzzLh1Q/7905dac84e46772f112be054e7e97404/Aesop_B_Triple_C_2024_Web_Homepage_Primary_1_Full_Bleed_Desktop_2880x1044px.jpg");
+    height: 650px;
+    background-size: contain;
+  }
+}
